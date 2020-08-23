@@ -39,4 +39,6 @@ RFP.=[G/CLOC-RequestForProposal/Matter-Project/Long-Form/Nov2019/RFP/0.md]
 
 Pricing.=[G/CLOC-RequestForProposal/Matter-Project/Long-Form/Nov2019/Pricing/0.md]
 
-Model.Root={Pricing.Sec}
+Counsel.Questionnaire.=[G/CLOC-RequestForProposal/Matter-Project/Long-Form/Nov2019/CounselQuestionnaire/0.md]
+
+Model.Root=<b>This is the series of four documents:</b> <ol><li><b>Conflict Check</b><br>{Conflict.Sec}<li><b>RFP</b><br>{RFP.Sec}<li><b>Pricing</b><br>{Pricing.Sec}<li> <b>Counsel Questionnaire</b><br>{Counsel.Questionnaire.Sec}</ol>
